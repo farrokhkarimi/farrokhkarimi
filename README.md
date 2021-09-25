@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there. I'm Farrokh.  
+I'm A Researcher and Developer in Digital Electronics, Artificial Intelligence, and Neuroscience.  
+You can see more about me at https://farrokhkarimi.github.io  
+
 
 <!--
 **farrokhkarimi/farrokhkarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
